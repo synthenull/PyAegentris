@@ -114,8 +114,8 @@ Proprietary - see [LICENSE](LICENSE). Redistribution of the tool is not permitte
 
 ## Links
 
-- **Repository:** [github.com/synthic0/PyAegentris](https://github.com/synthic0/PyAegentris)
-- **Changelog:** [docs/RELEASES.md](https://github.com/synthic0/PyAegentris/blob/main/docs/RELEASES.md)
+- **Repository:** [github.com/synthicnull/PyAegentris](https://github.com/synthicnull/PyAegentris)
+- **Changelog:** [docs/RELEASES.md](https://github.com/synthicnull/PyAegentris/blob/main/docs/RELEASES.md)
 
 ---
 
