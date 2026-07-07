@@ -8,8 +8,8 @@
 * Graphical User Interface (GUI) added.
 
 ### Changed
-* Library name randomization has been removed.
-* APIs updated.
+* Removed random `.pyd` filename generation in protected output packages.
+* Updated internal APIs to match the new output layout and naming.
 
 ### Fixed
 * Fixed several GUI layout and usability issues in the Protector desktop app.
