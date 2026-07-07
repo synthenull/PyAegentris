@@ -1,5 +1,21 @@
 # Changelog
 
+---
+
+## v1.4 - 2026-06-05
+
+### Added
+* Graphical User Interface (GUI) added.
+
+### Changed
+* Library name randomization has been removed.
+* APIs updated.
+
+### Fixed
+* Fixed several GUI layout and usability issues in the Protector desktop app.
+
+---
+
 ## v1.3 - 2026-06-29
 
 ### Added
