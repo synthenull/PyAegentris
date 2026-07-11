@@ -2,6 +2,23 @@
 
 ---
 
+## V1.4 - 2026-07-12
+
+### Added
+* Stronger native runtime protection for protected packages.
+* `build_library.bat` helper to rebuild the shipped native runtime library.
+
+### Changed
+* Improved compatibility with heavy GUI apps and optional third-party native protectors.
+* Protector GUI clock in the title bar now updates live.
+
+### Fixed
+* Fixed crashes in some multi-threaded / GUI protected apps.
+* Fixed protect-time breakage for functions called with keyword arguments.
+* Reduced false security stops under heavy UI load.
+  
+---
+
 ## v1.3.5 - 2026-06-05
 
 ### Added
