@@ -98,7 +98,7 @@ You can also run `pyaegentris your_app.py` as shorthand for `create`.
 1. Protect your application  
 2. Apply external hardening if your threat model requires it  
 3. Pack to EXE when you want a single deliverable  
-4. Ship only the release artifact — not your source or builder keys  
+4. Ship only the release artifact - not your source or builder keys  
 
 Builder keys and local metadata stay on your development machine; they are not part of the customer package.
 
