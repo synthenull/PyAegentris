@@ -2,6 +2,17 @@
 
 ---
 
+## V1.5 - 2026-07-20
+
+### Added
+* The CLI has been updated.
+### Changed
+* The packaging output is now cleaner: With the standard `--pack` option, the final EXE file is located in the `output/<project>/dist/` directory; temporary PyInstaller build and specification files are no longer left in the project folder.
+* The output log no longer displays the entire PyInstaller command line (only brief status information is provided).
+* Some runtime security improvements and packaging optimizations have been made.
+
+---
+
 ## V1.4 - 2026-07-12
 
 ### Added
